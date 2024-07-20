@@ -1,0 +1,19 @@
+.bankai {
+  background-color: rgb(226, 109, 135);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#shikai {
+  color: rgb(42, 24, 204);
+  font-size: 36px;
+}
+
+.cool {
+  font-size: 24px;
+}
+
+#honkai {
+  background-color: rgb(181, 245, 181);
+  font-size: 24px;
+  font-weight: bold;
+}
